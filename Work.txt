@@ -1,0 +1,22 @@
+Admin
+-- Login
+
+-- View all End Users and Authorize
+
+-- View all friend request and Response
+
+
+
+
+User
+
+--- Register with Network(Facebook,Twitter,)
+
+--- Login
+
+--- View Profile 
+
+--- Search Friends and Req.Friend
+
+--- View all Your Friends 
+
